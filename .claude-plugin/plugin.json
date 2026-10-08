@@ -1,0 +1,9 @@
+{
+  "name": "qa-only",
+  "version": "0.1.0",
+  "description": "Prompts that start with question / Q / q get an answer only: no plans, no edits. A ? pill shows when it is on.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "cziorvis-commits"
+  }
+}

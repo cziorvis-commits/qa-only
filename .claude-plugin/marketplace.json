@@ -1,0 +1,5 @@
+{
+  "name": "qa-only",
+  "owner": { "name": "cziorvis-commits" },
+  "plugins": [{ "name": "qa-only", "source": "./" }]
+}
